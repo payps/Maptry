@@ -1,0 +1,14 @@
+https://bitbucket.org/ we used their source code for google map because we can't yet afford the google map API Key. We just want to show what we want to do in our project.
+-------------------------
+
+FindJob we create a project called FindJob that will show where companies, how many vacancies, their location and also their contact number. 
+
+And Also you can post your company, how many vacancies, and your location with your contact number
+----------------------------
+We solve 2 the problems 
+
+First for many people have. Hard to find job and also the location that near to them.
+
+Second Many companies is hard also to find people that they need.
+--------------------------
+
